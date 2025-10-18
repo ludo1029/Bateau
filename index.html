@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ARESA 2500 MLB - Modèle 3D</title>
+
+    <!-- Import du viewer 3D -->
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+    <style>
+      body {
+        margin: 0;
+        font-family: "Segoe UI", Roboto, sans-serif;
+        background: #f6f8fa;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      h1 {
+        margin-top: 40px;
+        color: #0a3d62;
+      }
+      model-viewer {
+        width: 80vw;
+        height: 80vh;
+        margin: 30px 0;
+        background: #e9ecef;
+        border-radius: 10px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+      }
+      footer {
+        margin-bottom: 30px;
+        color: #777;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>ARESA 2500 MLB — Visualisation 3D interactive</h1>
+
+    <model-viewer
+      src="ImageToStl.com_Assemblage+bateau+v1.glb"
+      alt="Modèle 3D du bateau ARESA 2500 MLB"
+      camera-controls
+      auto-rotate
+      shadow-intensity="1"
+      exposure="1.1"
+      environment-image="neutral"
+    ></model-viewer>
+
+    <footer>👨‍💻 Modélisation par Ludovic Bocquillon — ESILV</footer>
+  </body>
+</html>
