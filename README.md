@@ -58,15 +58,9 @@ Ce travail s’inscrit dans une démarche d’apprentissage de la **CAO mécaniq
 
 ## 🧭 Aperçu 3D interactif
 
-👉 Clique sur le lien ci-dessous pour explorer le modèle **en 3D directement sur Sketchfab** :  
+Vous pouvez explorer le modèle 3D du **bateau ARESA 2500 MLB** directement en ligne :  
 
-[![Voir le modèle 3D sur Sketchfab](https://img.shields.io/badge/🔗_Voir%20le%20modèle%203D-00b3ff)](https://sketchfab.com/models/XXXXXXXX/embed)
-
-Ou clique sur l’image ci-dessous pour l’ouvrir dans Sketchfab :  
-
-[![Aresa 2500 MLB - modèle 3D](images/aresa_front.png)](https://sketchfab.com/models/aresa-3000-2500-mld-44efc74904ad4cbd993258ecb389c59b)
-
----
+👉 [Cliquez ici pour ouvrir le modèle 3D interactif](https://ludo1029.github.io/bateau/)
 
 ## 📜 Licence
 
