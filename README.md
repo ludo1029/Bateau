@@ -11,9 +11,8 @@ L’objectif est de reproduire fidèlement la structure, les proportions et les 
 
 ## ⚙️ Logiciels et outils utilisés
 
-- **🧠 Conception 3D :** Autodesk Fusion 360  
-- **🧰 Post-traitement :** Blender (nettoyage et export `.glb` / `.stl`)  
-- **🎨 Rendu :** Fusion 360 Renderer / KeyShot  
+- **🧠 Conception 3D :** SolidWorks  
+- **🎨 Rendu :** Fusion 360 Renderer
 - **🌐 Visualisation :** Sketchfab (intégration interactive)  
 
 ---
@@ -27,8 +26,6 @@ L’objectif est de reproduire fidèlement la structure, les proportions et les 
 | **Longueur** | 25,00 m |
 | **Largeur** | 6,00 m |
 | **Matériaux modélisés** | Aluminium, composites |
-| **Nombre de composants** | ~120 |
-| **Format d’export** | `.stl`, `.obj`, `.glb` |
 
 ---
 
@@ -49,23 +46,17 @@ L’objectif principal était de **concevoir un modèle fidèle et optimisé**, 
 - les **rendus photo-réalistes**,
 - et la **visualisation 3D interactive sur le web**.  
 
-Ce travail s’inscrit dans une démarche d’apprentissage de la **CAO mécanique appliquée au domaine naval**, avec une attention particulière portée à la précision géométrique et à l’optimisation du maillage.
-
----
-
+Ce travail s’inscrit dans une démarche d’apprentissage de la **CAO mécanique appliquée au domaine naval**, avec une attention particulière portée à la précision géométrique.
 
 ---
 
 ## 🧭 Aperçu 3D interactif
 
-Vous pouvez explorer le modèle 3D du **bateau ARESA 2500 MLB** directement en ligne :  
+Vous pouvez explorer de manière interactive le modèle 3D du **bateau ARESA 2500 MLB** directement en ligne :  
 
 👉 [Cliquez ici pour ouvrir le modèle 3D interactif](https://ludo1029.github.io/Bateau/)
 
-## 📜 Licence
-
-Ce projet est distribué sous licence **Creative Commons BY-NC-SA 4.0**.  
-Vous êtes libres de le partager et de le modifier à des fins non commerciales, à condition de créditer l’auteur.
+Certaines textures n'ont pas été prises en compte
 
 ---
 
@@ -76,11 +67,4 @@ Vous êtes libres de le partager et de le modifier à des fins non commerciales,
 Passionné de CAO, mécatronique et modélisation 3D appliquée à l’aéronautique et au naval.  
 
 📫 Contact : [LinkedIn](https://linkedin.com/in/ludovic-bocquillon) · [GitHub](https://github.com/LudovicBocquillon)
-
----
-
-⭐ *N’hésitez pas à laisser une étoile sur le dépôt si vous trouvez ce projet intéressant !*
-
-
-## 📦 Fichiers inclus
 
