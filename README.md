@@ -66,5 +66,5 @@ Certaines textures n'ont pas été prises en compte
 Étudiant ingénieur à l’ESILV  
 Passionné de CAO, mécatronique et modélisation 3D appliquée à l’aéronautique et au naval.  
 
-📫 Contact : [LinkedIn](https://linkedin.com/in/ludovic-bocquillon) · [GitHub](https://github.com/LudovicBocquillon)
+📫 Contact : [LinkedIn](www.linkedin.com/in/ludovic-bocquillon-b65b73255)
 
