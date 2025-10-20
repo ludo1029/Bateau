@@ -1,6 +1,6 @@
 # 🚤 Modélisation 3D — ARESA 2500 MLB
 
-![Aresa 2500 MLB Banner](images/aresa_banner.jpg)
+![Aresa 2500 MLB Banner](Aresaban.jpg)
 
 ## 🧩 Présentation du projet
 
@@ -35,7 +35,7 @@ Quelques captures d’écran de la modélisation et du rendu :
 
 | Vue avant | Vue arrière | Vue intérieure |
 |------------|--------------|----------------|
-| ![Vue avant](images/aresa_front.png) | ![Vue arrière](images/aresa_back.png) | ![Vue intérieure](images/aresa_inside.png) |
+| ![Vue avant](images/aresa_front.png) | ![Vue arrière](images/aresa_back.png) | ![Vue intérieure](images/aresa_inside.png) | ![Vue iso](phtoIso.png)
 
 ---
 
