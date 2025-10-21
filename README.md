@@ -33,9 +33,9 @@ L’objectif est de reproduire fidèlement la structure, les proportions et les 
 
 Quelques captures d’écran de la modélisation et du rendu :
 
-| Vue avant | Vue arrière | Vue intérieure | Vue Iso |
-|------------|--------------|----------------|-----------|
-| ![Vue avant](images/aresa_front.png) | ![Vue arrière](images/aresa_back.png) | ![Vue intérieure](images/aresa_inside.png) | ![Vue iso](photoIso.png) |
+ Vue arrière | Vue intérieure | Vue Iso |
+|--------------|----------------|-----------|
+| ![Vue arrière](Areasa_back.jpg) | ![Vue intérieure](aresa_inte.png) | ![Vue iso](photoIso.png) |
 
 
 ---
