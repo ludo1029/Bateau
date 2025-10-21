@@ -35,7 +35,7 @@ Quelques captures d’écran de la modélisation et du rendu :
 
  Vue arrière | Vue intérieure | Vue Iso |
 |--------------|----------------|-----------|
-| ![Vue arrière](Areasa_back.jpg) | ![Vue intérieure](aresa_inte.png) | ![Vue iso](photoIso.png) |
+| ![Vue arrière](Areasa_back1.jpg) | ![Vue intérieure](aresa_inte.png) | ![Vue iso](photoIso.png) |
 
 
 ---
