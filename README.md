@@ -55,7 +55,7 @@ Ce travail s’inscrit dans une démarche d’apprentissage de la **CAO mécaniq
 
 Vous pouvez explorer de manière interactive le modèle 3D du **bateau ARESA 2500 MLB** directement en ligne :  
 
-👉 [Cliquez ici pour ouvrir le modèle 3D interactif](https://ludo1029.github.io/Bateau/)
+👉 [Cliquez ici pour ouvrir le modèle 3D interactif](https://skfb.ly/pDXDI)
 
 Certaines textures n'ont pas été prises en compte
 
